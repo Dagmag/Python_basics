@@ -99,15 +99,15 @@
 """
 
 
-a = int(input('Результат первого дня: '))
-b = int(input('Желаемый результат: '))
-day = 1
-first_day = a
-while first_day < b:
-    a = a + 0.1 * a
-    day += 1
-    first_day = a
-print('Вы достигнете требуемых показателей на', day, 'день')
+# a = int(input('Результат первого дня: '))
+# b = int(input('Желаемый результат: '))
+# day = 1
+# first_day = a
+# while first_day < b:
+#     a = a + 0.1 * a
+#     day += 1
+#     first_day = a
+# print('Вы достигнете требуемых показателей на', day, 'день')
 
 
 """
